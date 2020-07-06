@@ -1,17 +1,17 @@
-*Title: jdhfjdh
+*Title: readme
     
-    *Description: jfdjsfjd
+    *Description: a good readme generator
     
-    *Table of Contents: [Installation](#installation)
+    *Table of Contents: [License](#license)
     
-    *Installation: fjdjfhjd
+    *Installation: npm
     
-    *Usage: jdnjfhdsj
+    *Usage: generate readme
     
-    *License: hcdjhf
+    *License: MIT
     
-    *Contributing: jdjf
+    *Contributing: me and nobody else.
     
-    *Tests: fdnjf
+    *Tests: OOP
     
-    *Questions: jfdj
+    *Questions: no question at the moment
