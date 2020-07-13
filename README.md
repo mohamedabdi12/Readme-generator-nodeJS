@@ -43,4 +43,17 @@ https://mohamedabdi12.github.io/Readme-generator-nodeJS/
 ## Image:
 ![]()
 
+* Images
+
+<img width="1440" alt="Screenshot 2020-07-13 at 10 22 49 AM" src="https://user-images.githubusercontent.com/63940676/87334238-2ed48c80-c4f3-11ea-9da7-f305f236854e.png">
+
+
+
+### Video Walk-through
+
 https://drive.google.com/file/d/1nWDvw807pIcpZmpgpDv-Clsodp95Onqv/view
+
+
+![ReadMe Generator](/assets/readmegenerator..gif)
+
+
